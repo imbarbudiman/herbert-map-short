@@ -1,6 +1,6 @@
 {
-  "name": "getherbert/herbert-plugin",
-  "description": "Herbert plugin",
+  "name": "imbarbudiman/herbert-map-short",
+  "description": "Simple wordpress shortcode plugins (created using Herbert framework), to display the google map in your posts with coordinates (latitude and longitude).",
   "license": "MIT",
   "require": {
     "getherbert/framework": "0.9.13",
