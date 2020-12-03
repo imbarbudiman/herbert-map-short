@@ -1,6 +1,6 @@
 # Herbert Map Shortcode
 
-Simple wordpress shortcode plugins (created using [Herbert](https://github.com/getherbert/herbert "Herbert Map Shortcode On Github") framework), to display the google map in your posts with coordinates (latitude and longitude).
+Simple wordpress shortcode plugins (using [Herbert](https://github.com/getherbert/herbert "Herbert Map Shortcode On Github") framework), to display the google map in your posts with coordinates (latitude and longitude).
 
 #### Example
 ```
